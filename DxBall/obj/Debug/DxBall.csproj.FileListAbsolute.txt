@@ -1,0 +1,36 @@
+E:\WorkSpaceVisualStudio\C#\DxBall\DxBall\bin\Debug\DxBall.exe.config
+E:\WorkSpaceVisualStudio\C#\DxBall\DxBall\bin\Debug\DxBall.exe
+E:\WorkSpaceVisualStudio\C#\DxBall\DxBall\bin\Debug\DxBall.pdb
+E:\WorkSpaceVisualStudio\C#\DxBall\DxBall\obj\Debug\DxBall.csprojResolveAssemblyReference.cache
+E:\WorkSpaceVisualStudio\C#\DxBall\DxBall\obj\Debug\DxBall.Properties.Resources.resources
+E:\WorkSpaceVisualStudio\C#\DxBall\DxBall\obj\Debug\DxBall.csproj.GenerateResource.Cache
+E:\WorkSpaceVisualStudio\C#\DxBall\DxBall\obj\Debug\DxBall.exe
+E:\WorkSpaceVisualStudio\C#\DxBall\DxBall\obj\Debug\DxBall.pdb
+E:\WorkSpaceVisualStudio\C#\DxBall\DxBall\obj\Debug\DxBall.Main.resources
+C:\Users\Toor\Desktop\Projects\Projects\DxBall\DxBall\DxBall\bin\Debug\DxBall.exe.config
+C:\Users\Toor\Desktop\Projects\Projects\DxBall\DxBall\DxBall\obj\Debug\DxBall.pdb
+C:\Users\Toor\Desktop\Projects\Projects\DxBall\DxBall\DxBall\bin\Debug\DxBall.exe
+C:\Users\Toor\Desktop\Projects\Projects\DxBall\DxBall\DxBall\bin\Debug\DxBall.pdb
+C:\Users\Toor\Desktop\Projects\Projects\DxBall\DxBall\DxBall\obj\Debug\DxBall.csprojResolveAssemblyReference.cache
+C:\Users\Toor\Desktop\Projects\Projects\DxBall\DxBall\DxBall\obj\Debug\DxBall.Main.resources
+C:\Users\Toor\Desktop\Projects\Projects\DxBall\DxBall\DxBall\obj\Debug\DxBall.Properties.Resources.resources
+C:\Users\Toor\Desktop\Projects\Projects\DxBall\DxBall\DxBall\obj\Debug\DxBall.csproj.GenerateResource.Cache
+C:\Users\Toor\Desktop\Projects\Projects\DxBall\DxBall\DxBall\obj\Debug\DxBall.exe
+C:\Users\Toor\Desktop\Projects\DxBall\DxBall\bin\Debug\DxBall.exe.config
+C:\Users\Toor\Desktop\Projects\DxBall\DxBall\obj\Debug\DxBall.pdb
+C:\Users\Toor\Desktop\Projects\DxBall\DxBall\bin\Debug\DxBall.exe
+C:\Users\Toor\Desktop\Projects\DxBall\DxBall\bin\Debug\DxBall.pdb
+C:\Users\Toor\Desktop\Projects\DxBall\DxBall\obj\Debug\DxBall.csprojResolveAssemblyReference.cache
+C:\Users\Toor\Desktop\Projects\DxBall\DxBall\obj\Debug\DxBall.Main.resources
+C:\Users\Toor\Desktop\Projects\DxBall\DxBall\obj\Debug\DxBall.Properties.Resources.resources
+C:\Users\Toor\Desktop\Projects\DxBall\DxBall\obj\Debug\DxBall.csproj.GenerateResource.Cache
+C:\Users\Toor\Desktop\Projects\DxBall\DxBall\obj\Debug\DxBall.exe
+F:\Projeler\New folder\Projects\DxBall\DxBall\bin\Debug\DxBall.exe.config
+F:\Projeler\New folder\Projects\DxBall\DxBall\obj\Debug\DxBall.exe
+F:\Projeler\New folder\Projects\DxBall\DxBall\obj\Debug\DxBall.pdb
+F:\Projeler\New folder\Projects\DxBall\DxBall\bin\Debug\DxBall.exe
+F:\Projeler\New folder\Projects\DxBall\DxBall\bin\Debug\DxBall.pdb
+F:\Projeler\New folder\Projects\DxBall\DxBall\obj\Debug\DxBall.csprojResolveAssemblyReference.cache
+F:\Projeler\New folder\Projects\DxBall\DxBall\obj\Debug\DxBall.Main.resources
+F:\Projeler\New folder\Projects\DxBall\DxBall\obj\Debug\DxBall.Properties.Resources.resources
+F:\Projeler\New folder\Projects\DxBall\DxBall\obj\Debug\DxBall.csproj.GenerateResource.Cache
